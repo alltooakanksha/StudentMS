@@ -1,8 +1,7 @@
 # StudentMS
 #This works as a database of any institute that helps enter, show, search, update and delete records of a student
 
-#include<iostream>
-
+#include &lt;iostream&gt;
 
 
 using namespace std;
